@@ -1,7 +1,7 @@
 # TCP_Client_Server_Socket
 
 
-![TCP-Socket](https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg)
+                                ![TCP-Socket](https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg)
 
 ### Server:
 Server calls the socket call and then bind the server to the specific port and IP Address.
