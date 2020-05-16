@@ -18,3 +18,5 @@ acceptance from server. Client request for reading and writing of data. After su
 of data. The socket is closed. 
 
 ![](https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg =250x250)
+
+<img src="https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg" data-canonical-src="https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg" width="200" height="400" />
