@@ -1,7 +1,6 @@
 # TCP_Client_Server_Socket
 
 
-                                ![TCP-Socket](https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg)
 
 ### Server:
 Server calls the socket call and then bind the server to the specific port and IP Address.
@@ -17,3 +16,5 @@ When data transfer completes the process finishes.
 Client call the socket call and then calls the connect call to form a connection after the
 acceptance from server. Client request for reading and writing of data. After successful transfer
 of data. The socket is closed. 
+
+![TCP-Socket](https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg = 250x250)
