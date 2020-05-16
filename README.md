@@ -1,6 +1,6 @@
 # TCP_Client_Server_Socket
 
-
+TCP Concurrent Sever ti handle multiple clients.
 
 ### Server:
 Server calls the socket call and then bind the server to the specific port and IP Address.
@@ -20,3 +20,16 @@ of data. The socket is closed.
 <p align="center">
   <img width="400" height="500" src="https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg">
 </p>
+
+
+## Authenticated File Transfer Application
+Notes:
+1- File to be transferred should be .txt files.
+2- Files should not contain any empty lines.
+3- Account details are in database.txt file.
+4- Run server terminal in server folder at path
+5- To Run on Your machine, Change the Path Accordingly.
+6- The database format is (Username,Password).
+7- The name representation of file generated in client is file_RandomNumber_Username.txt.
+
+
