@@ -17,4 +17,6 @@ Client call the socket call and then calls the connect call to form a connection
 acceptance from server. Client request for reading and writing of data. After successful transfer
 of data. The socket is closed. 
 
-<img align="center" src="https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg" data-canonical-src="https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg" width="400" height="500" />
+<p align="center">
+  <img width="400" height="500" src="https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg">
+</p>
