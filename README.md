@@ -32,4 +32,27 @@ Notes
 * The database format is (Username,Password).
 * The name representation of file generated in client is file_RandomNumber_Username.txt.
 
+## Run
+###Open Terminal in current working directory.
 
+* Build output file for server.c using 
+```
+gcc server.c -o server.out
+```
+
+* Run Server using 
+```
+./server.out
+```
+
+You can built multiple client using multiple terminals
+
+* Build output file for client.c using 
+```
+gcc client.c -o client.out
+```
+
+* Run Server using 
+```
+./client.out
+```
