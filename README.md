@@ -23,13 +23,13 @@ of data. The socket is closed.
 
 
 ## Authenticated File Transfer Application
-Notes:
-1- File to be transferred should be .txt files.
-2- Files should not contain any empty lines.
-3- Account details are in database.txt file.
-4- Run server terminal in server folder at path
-5- To Run on Your machine, Change the Path Accordingly.
-6- The database format is (Username,Password).
-7- The name representation of file generated in client is file_RandomNumber_Username.txt.
+Notes
+* File to be transferred should be .txt files.
+* Files should not contain any empty lines.
+* Account details are in database.txt file.
+* Run server terminal in server folder at path
+* To Run on Your machine, Change the Path Accordingly.
+* The database format is (Username,Password).
+* The name representation of file generated in client is file_RandomNumber_Username.txt.
 
 
