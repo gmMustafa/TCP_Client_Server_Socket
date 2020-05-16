@@ -1,6 +1,6 @@
 # TCP_Client_Server_Socket
 
-TCP Concurrent Sever ti handle multiple clients.
+TCP Concurrent Sever to handle multiple clients.
 
 ### Server:
 Server calls the socket call and then bind the server to the specific port and IP Address.
